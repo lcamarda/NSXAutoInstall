@@ -8,6 +8,10 @@
   Author: Luca Camarda
 .LINK
      https://github.com/vmware/powernsx
+.LINK
+     http://www.van-lieshout.com/2011/06/drs-rules/
+.LINK
+     https://github.com/lcamarda/NSXAutoInstall
 #>
 
 $ErrorActionPreference = "Stop"
