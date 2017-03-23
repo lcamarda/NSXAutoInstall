@@ -6,6 +6,8 @@
   Reccomended implementation and design choices have been cincorporated as part of the script.
 .NOTES
   Author: Luca Camarda
+.LINK
+     https://github.com/vmware/powernsx
 #>
 
 $ErrorActionPreference = "Stop"
